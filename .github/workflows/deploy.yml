@@ -4,7 +4,7 @@ on:
   # Trigger the workflow on push to main branch
   push:
     branches:
-    - mdzzg
+    - new_branch
 
 permissions:
   pages: write
