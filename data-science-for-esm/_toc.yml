@@ -31,4 +31,3 @@ parts:
     - file: BYOC/06_Content
     - file: BYOC/07_Workflow
     - file: BYOC/08_Ref
-      title: Further Reading and Citation
