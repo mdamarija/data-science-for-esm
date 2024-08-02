@@ -12,7 +12,7 @@ logo: logo.png                          # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
-exclude_patterns: [content/*, ./content/*.ipynb]
+exclude_patterns: [content/*, ./content/*.ipynb, ./BYOC/01_Intro.md, ./BYOC/02_Requirements.md]
 only_build_toc_files: true
 execute:
   execute_notebooks: force
